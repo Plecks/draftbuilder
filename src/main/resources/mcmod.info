@@ -1,0 +1,16 @@
+[
+{
+  "modid": "buildinator",
+  "name": "Buildinator",
+  "description": "This clienside mods automates many actions involved in placing/removing blocks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Plecks"],
+  "credits": "Shapebuilder, the inspiration for this mod, and WorldEdit, which much of this mod's functionality mimics",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
